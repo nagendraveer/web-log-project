@@ -1,0 +1,21 @@
+# Data files
+data/NASA_access_log_Jul95.gz
+data/access_log_Jul95
+
+# Compiled Java
+classes/
+*.class
+*.jar
+
+# Realtime generated logs
+realtime/input/
+realtime/processed/
+realtime/alerts/
+
+# Output artifacts
+output/
+
+# Python
+__pycache__/
+*.pyc
+.env
